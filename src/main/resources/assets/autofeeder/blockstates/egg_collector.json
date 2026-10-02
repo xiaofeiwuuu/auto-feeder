@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,layer=lower,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_lower"
+    },
+    "facing=north,layer=upper,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_upper"
+    },
+    "facing=north,layer=lower,part=head": {
+      "model": "autofeeder:block/egg_collector_head_lower"
+    },
+    "facing=north,layer=upper,part=head": {
+      "model": "autofeeder:block/egg_collector_head_upper"
+    },
+    "facing=east,layer=lower,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_lower",
+      "y": 90
+    },
+    "facing=east,layer=upper,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_upper",
+      "y": 90
+    },
+    "facing=east,layer=lower,part=head": {
+      "model": "autofeeder:block/egg_collector_head_lower",
+      "y": 90
+    },
+    "facing=east,layer=upper,part=head": {
+      "model": "autofeeder:block/egg_collector_head_upper",
+      "y": 90
+    },
+    "facing=south,layer=lower,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_lower",
+      "y": 180
+    },
+    "facing=south,layer=upper,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_upper",
+      "y": 180
+    },
+    "facing=south,layer=lower,part=head": {
+      "model": "autofeeder:block/egg_collector_head_lower",
+      "y": 180
+    },
+    "facing=south,layer=upper,part=head": {
+      "model": "autofeeder:block/egg_collector_head_upper",
+      "y": 180
+    },
+    "facing=west,layer=lower,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_lower",
+      "y": 270
+    },
+    "facing=west,layer=upper,part=foot": {
+      "model": "autofeeder:block/egg_collector_foot_upper",
+      "y": 270
+    },
+    "facing=west,layer=lower,part=head": {
+      "model": "autofeeder:block/egg_collector_head_lower",
+      "y": 270
+    },
+    "facing=west,layer=upper,part=head": {
+      "model": "autofeeder:block/egg_collector_head_upper",
+      "y": 270
+    }
+  }
+}

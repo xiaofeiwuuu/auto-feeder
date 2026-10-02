@@ -1,0 +1,15 @@
+{
+  "block.autofeeder.feed_trough": "食物槽",
+  "message.autofeeder.xp_taken": "取出了 %s 点经验",
+  "block.autofeeder.shearer": "剪毛机",
+  "block.autofeeder.milker": "挤奶机",
+  "block.autofeeder.egg_collector": "集蛋机",
+  "message.autofeeder.output_taken": "取出了 %s 件物品",
+  "block.autofeeder.feed_trough_long": "长食物槽",
+  "block.autofeeder.fisher": "自动钓鱼机",
+  "message.autofeeder.output_xp_taken": "取出了 %s 件物品和 %s 点经验",
+  "message.autofeeder.animals_header": "%s 格范围内的动物（同种上限 %s）：",
+  "message.autofeeder.animal_line": "%s ×%s（可繁殖 %s）",
+  "message.autofeeder.capped": " [已达上限]",
+  "message.autofeeder.no_animals": "%s 格范围内没有动物。"
+}

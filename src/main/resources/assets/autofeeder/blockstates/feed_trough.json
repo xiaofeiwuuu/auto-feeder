@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "filled=false": { "model": "autofeeder:block/feed_trough" },
+    "filled=true": { "model": "autofeeder:block/feed_trough_filled" }
+  }
+}

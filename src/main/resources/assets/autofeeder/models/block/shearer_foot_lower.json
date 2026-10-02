@@ -1,0 +1,80 @@
+{
+  "textures": {
+    "base": "minecraft:block/polished_andesite",
+    "iron": "minecraft:block/iron_block",
+    "top": "minecraft:block/blast_furnace_top",
+    "grill": "minecraft:block/blast_furnace_side",
+    "hop_out": "minecraft:block/hopper_outside",
+    "hop_in": "minecraft:block/hopper_inside",
+    "belt": "minecraft:block/black_concrete",
+    "wool": "minecraft:block/white_wool",
+    "red": "minecraft:block/red_concrete",
+    "particle": "minecraft:block/iron_block"
+  },
+  "elements": [
+    {
+      "from": [
+        0.0,
+        0.0,
+        0
+      ],
+      "to": [
+        16.0,
+        4.0,
+        16.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "#base"
+        },
+        "up": {
+          "texture": "#base"
+        },
+        "north": {
+          "texture": "#base"
+        },
+        "south": {
+          "texture": "#base"
+        },
+        "west": {
+          "texture": "#base"
+        },
+        "east": {
+          "texture": "#base"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        4.0,
+        0.0
+      ],
+      "to": [
+        16.0,
+        16,
+        16.0
+      ],
+      "faces": {
+        "down": {
+          "texture": "#iron"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "north": {
+          "texture": "#iron"
+        },
+        "south": {
+          "texture": "#iron"
+        },
+        "west": {
+          "texture": "#iron"
+        },
+        "east": {
+          "texture": "#iron"
+        }
+      }
+    }
+  ]
+}

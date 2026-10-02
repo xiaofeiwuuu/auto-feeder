@@ -1,0 +1,142 @@
+{
+  "textures": {
+    "deck": "minecraft:block/spruce_planks",
+    "post": "minecraft:block/stripped_spruce_log",
+    "crate": "minecraft:block/barrel_side",
+    "rod": "minecraft:block/dark_oak_log",
+    "string": "minecraft:block/white_wool",
+    "bobber": "minecraft:block/red_concrete",
+    "reel": "minecraft:block/gray_concrete",
+    "particle": "minecraft:block/barrel_side"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        3,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#deck"
+        },
+        "up": {
+          "texture": "#deck"
+        },
+        "north": {
+          "texture": "#deck"
+        },
+        "south": {
+          "texture": "#deck"
+        },
+        "west": {
+          "texture": "#deck"
+        },
+        "east": {
+          "texture": "#deck"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        3,
+        8
+      ],
+      "to": [
+        14,
+        7,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#crate"
+        },
+        "up": {
+          "texture": "#crate"
+        },
+        "north": {
+          "texture": "#crate"
+        },
+        "south": {
+          "texture": "#crate"
+        },
+        "west": {
+          "texture": "#crate"
+        },
+        "east": {
+          "texture": "#crate"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        7,
+        11
+      ],
+      "to": [
+        9,
+        10,
+        13
+      ],
+      "faces": {
+        "down": {
+          "texture": "#post"
+        },
+        "up": {
+          "texture": "#post"
+        },
+        "north": {
+          "texture": "#post"
+        },
+        "south": {
+          "texture": "#post"
+        },
+        "west": {
+          "texture": "#post"
+        },
+        "east": {
+          "texture": "#post"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        3,
+        0.5
+      ],
+      "to": [
+        9,
+        12.5,
+        2.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#post"
+        },
+        "up": {
+          "texture": "#post"
+        },
+        "north": {
+          "texture": "#post"
+        },
+        "south": {
+          "texture": "#post"
+        },
+        "west": {
+          "texture": "#post"
+        },
+        "east": {
+          "texture": "#post"
+        }
+      }
+    }
+  ]
+}

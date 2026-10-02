@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "autofeeder:feed_trough",
+    "autofeeder:feed_trough_long",
+    "autofeeder:shearer",
+    "autofeeder:milker",
+    "autofeeder:egg_collector",
+    "autofeeder:fisher"
+  ]
+}

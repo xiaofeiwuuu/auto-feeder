@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "autofeeder:feed_trough"
+    },
+    {
+      "item": "autofeeder:feed_trough"
+    }
+  ],
+  "result": {
+    "item": "autofeeder:feed_trough_long"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "block.autofeeder.feed_trough": "Feed Trough",
+  "itemGroup.autofeeder": "Auto Feeder",
+  "message.autofeeder.xp_taken": "Collected %s XP",
+  "block.autofeeder.shearer": "Shearing Machine",
+  "block.autofeeder.milker": "Milking Machine",
+  "block.autofeeder.egg_collector": "Egg Collector",
+  "message.autofeeder.output_taken": "Took %s items",
+  "block.autofeeder.feed_trough_long": "Long Feed Trough",
+  "block.autofeeder.fisher": "Auto Fisher",
+  "message.autofeeder.output_xp_taken": "Took %s items and %s XP",
+  "message.autofeeder.animals_header": "Animals within %s blocks (cap %s per species):",
+  "message.autofeeder.animal_line": "%s x%s (can breed: %s)",
+  "message.autofeeder.capped": " [cap reached]",
+  "message.autofeeder.no_animals": "No animals within %s blocks."
+}

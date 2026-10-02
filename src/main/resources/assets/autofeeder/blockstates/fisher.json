@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,has_rod=false,part=foot": {
+      "model": "autofeeder:block/fisher_foot"
+    },
+    "facing=north,has_rod=false,part=head": {
+      "model": "autofeeder:block/fisher_head"
+    },
+    "facing=north,has_rod=true,part=foot": {
+      "model": "autofeeder:block/fisher_foot_rod"
+    },
+    "facing=north,has_rod=true,part=head": {
+      "model": "autofeeder:block/fisher_head_rod"
+    },
+    "facing=east,has_rod=false,part=foot": {
+      "model": "autofeeder:block/fisher_foot",
+      "y": 90
+    },
+    "facing=east,has_rod=false,part=head": {
+      "model": "autofeeder:block/fisher_head",
+      "y": 90
+    },
+    "facing=east,has_rod=true,part=foot": {
+      "model": "autofeeder:block/fisher_foot_rod",
+      "y": 90
+    },
+    "facing=east,has_rod=true,part=head": {
+      "model": "autofeeder:block/fisher_head_rod",
+      "y": 90
+    },
+    "facing=south,has_rod=false,part=foot": {
+      "model": "autofeeder:block/fisher_foot",
+      "y": 180
+    },
+    "facing=south,has_rod=false,part=head": {
+      "model": "autofeeder:block/fisher_head",
+      "y": 180
+    },
+    "facing=south,has_rod=true,part=foot": {
+      "model": "autofeeder:block/fisher_foot_rod",
+      "y": 180
+    },
+    "facing=south,has_rod=true,part=head": {
+      "model": "autofeeder:block/fisher_head_rod",
+      "y": 180
+    },
+    "facing=west,has_rod=false,part=foot": {
+      "model": "autofeeder:block/fisher_foot",
+      "y": 270
+    },
+    "facing=west,has_rod=false,part=head": {
+      "model": "autofeeder:block/fisher_head",
+      "y": 270
+    },
+    "facing=west,has_rod=true,part=foot": {
+      "model": "autofeeder:block/fisher_foot_rod",
+      "y": 270
+    },
+    "facing=west,has_rod=true,part=head": {
+      "model": "autofeeder:block/fisher_head_rod",
+      "y": 270
+    }
+  }
+}

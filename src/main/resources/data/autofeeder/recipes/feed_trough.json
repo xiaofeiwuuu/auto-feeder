@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["S S", "SBS", "SSS"],
+  "key": {
+    "S": { "item": "minecraft:stone" },
+    "B": { "item": "minecraft:barrel" }
+  },
+  "result": { "item": "autofeeder:feed_trough" }
+}
